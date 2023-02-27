@@ -22,7 +22,7 @@ You can also find my artiles on my [Google Scholar profile](https://scholar.goog
 
 - **Q. Aumann** and I. V. Gosea. Practical challenges in data-driven interpolation: dealing with noise, enforcing stability, and computing realizations. eprint [2301.04906](https://arxiv.org/abs/2301.04906), arXiv, 2023, math.NA.
 - **Q. Aumann**, P. Benner, J. Saak and J. Vettermann. Model order reduction strategies for the computation of compact machine tool models. Submitted to _Proceedings of 3rd International Conference of Thermal Issued in Machine Tools_, 2022.
-- R. Rumpler and **Q. Aumann**. MWCAWE: A multivariate WCAWE approach for parametric model order reduction, and a residue-based greedy scheme for the bivariate case. Submitted to **xxx**, 2022.
+- R. Rumpler and **Q. Aumann**. MWCAWE: A multivariate WCAWE approach for parametric model order reduction, and a residue-based greedy scheme for the bivariate case. 2022.
 
 ---
 ## Journal Articles

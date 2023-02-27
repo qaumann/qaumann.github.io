@@ -24,47 +24,47 @@ author_profile: true
 
 ### 2023
 
-- **Q. Aumann** and S. W. R. Werner. Adaptive choice of near-optimal expansion points for interpolation-based reduced-order modeling, at _SIAM CSE23_, 26 February - 3 March 2023, Amsterdam, The Netherlands.
+- **Q. Aumann** and S. W. R. Werner. Adaptive choice of near-optimal expansion points for interpolation-based reduced-order modeling, at _SIAM Conference on Computational Science and Engineering -- CSE23_, 26 February - 3 March 2023, Amsterdam, The Netherlands.
 
 ### 2022
 
-- **Q. Aumann**. Adaptive choice of near-optimal expansion points for interpolation-based reduced-order modeling, in **SEMINAR MATTHIAS**, 27 October 2022, Online.
+- **Q. Aumann**. Adaptive choice of near-optimal expansion points for interpolation-based reduced-order modeling, in _Applied Mathematics Seminar, UniDistance Suisse_, 27 October 2022, Online.
 - **Q. Aumann**, P. Benner, I. V. Gosea, J. Saak, and J. Vettermann. Data driven reduced-order modeling of thermo-mechanical models of machine tools, at _MORE -- Model Reduction and Surrogate Modeling_, 19-23 September 2022, Berlin, Germany.
 - **Q. Aumann**, P. Benner, J. Saak, and J. Vettermann. Multi-body analysis of machine tools using reduced-order thermo-mechanical models, at _92nd Annual Meeting of the International Association of Applied Mathematics and Mechanics_, 15-19 August 2022, Aachen, Germany.
 - **Q. Aumann** and G. Müller. An adaptive method for reducing second-order dynamical systems, at _10th Vienna International Conference on Mathematical Modelling_, 27-29 July 2022, Vienna, Austria.
-- **Q. Aumann**. Structured model order reduction for vibro-acoustic problems using interpolation and balancing methods, at __YMMOR__ 18-22 July 2022, Münster, Germany.
-- **Q. Aumann**. Adaptive parametric model order reduction strategies for locally resonant structures, in **SEMINAR LUKA**, 2 June 2022, Zagreb, Croatia.
+- **Q. Aumann**. Structured model order reduction for vibro-acoustic problems using interpolation and balancing methods, at _Young Mathematicians in Model Order Reduction -- YMMOR_, 18-22 July 2022, Münster, Germany.
+- **Q. Aumann**. Adaptive parametric model order reduction strategies for locally resonant structures, in _RandLRAP Project Workshop_, 2 June 2022, Zagreb, Croatia.
 - **Q. Aumann**. Assessment of locally resonant structures using adaptive parametric model order reduction, at _3rd Workshop on Optimal Control of Dynamical Systems and Applications_, 28 March - 1 April 2022, Osijek, Croatia.
 
 
 ### 2021
 
 - **Q. Aumann**. Efficient and robust interpolation-based model order reduction of vibro-acoustic problems, in _CSC Seminar_, 7 December 2021, Magdeburg, Germany.
-- **Q. Aumann**, E. Deckers, S. Jonckheere, W. Desmet, and G.  Müller. A reduction method for frequency dependent poro-elastic materials, at _14th World Congress in Computational Mechanics_, __xx__ Januar 2021, Online conference.
+- **Q. Aumann**, E. Deckers, S. Jonckheere, W. Desmet, and G.  Müller. A reduction method for frequency dependent poro-elastic materials, at _14th World Congress in Computational Mechanics_, 11-15 Januar 2021, Online conference.
 
 
 ### 2020
 
-- **Q. Aumann** and G. Müller. Robust error assessment for reduced order vibro-acoustic problems, at _ISMA 2020_, __xx__ September 2020, Online conference.
+- **Q. Aumann** and G. Müller. Robust error assessment for reduced order vibro-acoustic problems, at _ISMA 2020_, 7-9 September 2020, Online conference.
 
 
 ### 2019
 
-- **Q. Aumann**. **LEUVEN SEMINAR**
-- **Q. Aumann**, F. Mittermeier, and G. Müller. An adaptive reduction method for poro-acoustic systems with frequency dependent material properties, at _4th Workshop on Model Reduction of Complex Dynamical Systems -- MODRED 2019_, __xx__ August 2019, Graz, Austria.
-- **Q. Aumann**, F. Mittermeier, and G. Müller. Model reduction method for poro-acoustic systems with frequency dependent material properties, at _VIII International Conference on Coupled Problems in Science and Engineering_, __xx__ June 2019, Sitges, Spain.
-- **Q. Aumann**, M. Miksch, and G. Müller. Parametric model order reduction for acoustic metamaterials based on local thickness variations, at _XIIIth International Conference on Recent Advances in Structural Dynamics_, __xx__ April 2019, Lyon, France.
-- **Q. Aumann**. __KRATOS WORKSHOP__
-- **Q. Aumann**, G. Müller. A-priori pole selection for reduced models in structural dynamics, at _90th Annual Meeting of the International Association of Applied Mathematics and Mechanics_, __xx__ February 2019, Vienna, Austria.
+<!-- - **Q. Aumann**. **LEUVEN SEMINAR** -->
+- **Q. Aumann**, F. Mittermeier, and G. Müller. An adaptive reduction method for poro-acoustic systems with frequency dependent material properties, at _4th Workshop on Model Reduction of Complex Dynamical Systems -- MODRED 2019_, 28-30 August 2019, Graz, Austria.
+- **Q. Aumann**, F. Mittermeier, and G. Müller. Model reduction method for poro-acoustic systems with frequency dependent material properties, at _VIII International Conference on Coupled Problems in Science and Engineering_, 3-5 June 2019, Sitges, Spain.
+- **Q. Aumann**, M. Miksch, and G. Müller. Parametric model order reduction for acoustic metamaterials based on local thickness variations, at _XIIIth International Conference on Recent Advances in Structural Dynamics_, 15-17 April 2019, Lyon, France.
+- **Q. Aumann**. __xxx__, at _V Kratos Workshop_, 25-27 March 2019, Munich, Germany.
+- **Q. Aumann**, G. Müller. A-priori pole selection for reduced models in structural dynamics, at _90th Annual Meeting of the International Association of Applied Mathematics and Mechanics_, 18-22 February 2019, Vienna, Austria.
 
 
 ### 2018
 
-- **Q. Aumann**, M. Miksch, and G. Müller. Numerical models for evaluating the vibro-acoustic properties of acoustic metamaterials, at _89th Annual Meeting of the International Association of Applied Mathematics and Mechanics_, __xx__ Marcg 2018, Munich, Germany.
+- **Q. Aumann**, M. Miksch, and G. Müller. Numerical models for evaluating the vibro-acoustic properties of acoustic metamaterials, at _89th Annual Meeting of the International Association of Applied Mathematics and Mechanics_, 19-23 March 2018, Munich, Germany.
 
 
 ---
 ## Posters
 
-- SAMM
+- **Q. Aumann** and G. Müller. Predicting near optimal interpolation points for parametric model order reduction using regression models, at _GAMM Juniors' Summer School on Applied Mathematics and Mechanics -- Learning Models from Data: Model Reduction, System Identification and Machine Learning_, 27 - 31 July 2020, Online.
 
