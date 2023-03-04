@@ -54,7 +54,7 @@ author_profile: true
 - **Q. Aumann**, F. Mittermeier, and G. Müller. An adaptive reduction method for poro-acoustic systems with frequency dependent material properties, at _4th Workshop on Model Reduction of Complex Dynamical Systems -- MODRED 2019_, 28-30 August 2019, Graz, Austria.
 - **Q. Aumann**, F. Mittermeier, and G. Müller. Model reduction method for poro-acoustic systems with frequency dependent material properties, at _VIII International Conference on Coupled Problems in Science and Engineering_, 3-5 June 2019, Sitges, Spain.
 - **Q. Aumann**, M. Miksch, and G. Müller. Parametric model order reduction for acoustic metamaterials based on local thickness variations, at _XIIIth International Conference on Recent Advances in Structural Dynamics_, 15-17 April 2019, Lyon, France.
-- **Q. Aumann**. __xxx__, at _V Kratos Workshop_, 25-27 March 2019, Munich, Germany.
+<!-- - **Q. Aumann**. __xxx__, at _V Kratos Workshop_, 25-27 March 2019, Munich, Germany. -->
 - **Q. Aumann**, G. Müller. A-priori pole selection for reduced models in structural dynamics, at _90th Annual Meeting of the International Association of Applied Mathematics and Mechanics_, 18-22 February 2019, Vienna, Austria.
 
 
