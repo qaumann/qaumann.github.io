@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a postdoctoral researcher at the [Max Planck Institute for Dynamics of Complex Technical Systems](https://www.mpi-magdeburg.mpg.de/) focusing on model order reduction and surrogate modeling techniques for complex dynamical systems.
+Welcome! My name is Quirin and I am a postdoctoral researcher at the [Max Planck Institute for Dynamics of Complex Technical Systems](https://www.mpi-magdeburg.mpg.de/) focusing on model order reduction and surrogate modeling techniques for complex dynamical systems.
 
 I studied civil engineering (B.Sc.) and computational mechanics (M.Sc.) at the [Technical University of Munich (TUM)](https://www.tum.de) from 2010 until 2017.
 Following, I was working as a research assistant at the [Chair of Structural Mechanics](https://www.cee.ed.tum.de/en/bm) at TUM and I received my PhD in 2022.
