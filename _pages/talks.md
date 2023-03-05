@@ -24,6 +24,7 @@ author_profile: true
 
 ### 2023
 
+- **Q. Aumann**, P. Benner, J. Saak, and J. Vettermann. Model order reduction strategies for the computation of compact machine tool models, at _3rd International Conference on Thermal Issues in Machine Tools -- ICTIMT 2023_, 21-23 March 2023, Dresden, Germany.
 - **Q. Aumann** and S. W. R. Werner. Adaptive choice of near-optimal expansion points for interpolation-based reduced-order modeling, at _SIAM Conference on Computational Science and Engineering -- CSE23_, 26 February - 3 March 2023, Amsterdam, The Netherlands.
 
 ### 2022

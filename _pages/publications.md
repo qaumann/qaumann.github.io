@@ -5,16 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
 - [Submitted Articles and Preprints](#submitted-articles-and-preprints)
 - [Journal Articles](#journal-articles)
 - [Conference Proceedings](#conference-proceedings)
 - [PhD Thesis](#phd-thesis)
 
-You can also find my artiles on my [Google Scholar profile](https://scholar.google.com/citations?user=q_vmX1UAAAAJ).
+You can also find my articles on <a target="_blank" href="{{author.googlescholar}}">my Google Scholar profile</a>.
 
 ---
 
