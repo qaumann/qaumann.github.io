@@ -11,4 +11,4 @@ More specifically I was involved in the conceptualization, organization, and rea
 
 Up to now I supervised 15 semester projects, 9 Bachelor's theses, and 6 Master's theses.
 
-<!-- Since 2021 I am the PhD mentor of <a target="_blank" href="https://www.cee.ed.tum.de/bm/mitarbeiterinnen/sebastian-schopper/">Sebastian Schopper</a>. -->
+Since 2021 I am the PhD mentor of <a target="_blank" href="https://www.cee.ed.tum.de/bm/mitarbeiterinnen/sebastian-schopper/">Sebastian Schopper</a>.
