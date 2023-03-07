@@ -10,7 +10,7 @@ author_profile: true
 - [Conference Proceedings](#conference-proceedings)
 - [PhD Thesis](#phd-thesis)
 
-You can also find my articles on <a target="_blank" href="{{author.googlescholar}}">my Google Scholar profile</a>.
+You can also find my articles on <a target="_blank" href="https://scholar.google.com/citations?user=q_vmX1UAAAAJ">my Google Scholar profile</a>.
 
 ---
 
