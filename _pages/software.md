@@ -19,7 +19,7 @@ author_profile: true
     <a target="_blank" href="https://opensource.org/licenses/BSD-2-Clause">
     <img src="https://img.shields.io/badge/License-BSD%202--Clause-orange.svg" alt="License: BSD 2-Clause" class="badge"></a><br/>
 
-- **Q. Aumann** and S. w. R. Werner. Code, Data and Results for Numerical Experiments in "Structured model order reduction for vibro-acoustic problems using interpolation and balancing methods", August 2022. doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.5836046">10.5281/zenodo.5836046</a>.
+- **Q. Aumann** and S. W. R. Werner. Code, Data and Results for Numerical Experiments in "Structured model order reduction for vibro-acoustic problems using interpolation and balancing methods", August 2022. doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.5836046">10.5281/zenodo.5836046</a>.
     <br>
     <a target="blank_" href="https://doi.org/10.1016/j.jsv.2022.117363">
     <button class="btn btn--inverse">Paper</button></a>
