@@ -51,11 +51,11 @@ author_profile: true
 
 ### 2019
 
-<!-- - **Q. Aumann**. **LEUVEN SEMINAR** -->
+- **Q. Aumann**. Model order reduction for vibro-acoustic Systems, in _MOD breakfast seminar series_, 9 September 2019, Leuven, Belgium.
 - **Q. Aumann**, F. Mittermeier, and G. Müller. An adaptive reduction method for poro-acoustic systems with frequency dependent material properties, at _4th Workshop on Model Reduction of Complex Dynamical Systems -- MODRED 2019_, 28-30 August 2019, Graz, Austria.
 - **Q. Aumann**, F. Mittermeier, and G. Müller. Model reduction method for poro-acoustic systems with frequency dependent material properties, at _VIII International Conference on Coupled Problems in Science and Engineering_, 3-5 June 2019, Sitges, Spain.
 - **Q. Aumann**, M. Miksch, and G. Müller. Parametric model order reduction for acoustic metamaterials based on local thickness variations, at _XIIIth International Conference on Recent Advances in Structural Dynamics_, 15-17 April 2019, Lyon, France.
-<!-- - **Q. Aumann**. __xxx__, at _V Kratos Workshop_, 25-27 March 2019, Munich, Germany. -->
+- **Q. Aumann**. Model order reduction using the Kratos framework, at _V Kratos Workshop_, 25-27 March 2019, Munich, Germany.
 - **Q. Aumann**, G. Müller. A-priori pole selection for reduced models in structural dynamics, at _90th Annual Meeting of the International Association of Applied Mathematics and Mechanics_, 18-22 February 2019, Vienna, Austria.
 
 
@@ -67,5 +67,5 @@ author_profile: true
 ---
 ## Posters
 
-- **Q. Aumann** and G. Müller. Predicting near optimal interpolation points for parametric model order reduction using regression models, at _GAMM Juniors' Summer School on Applied Mathematics and Mechanics -- Learning Models from Data: Model Reduction, System Identification and Machine Learning_, 27 - 31 July 2020, Online.
+- **Q. Aumann** and G. Müller. Can machine learning methods be used to create parameterized reduced models of vibro-acoustic systems?, at _GAMM Juniors' Summer School on Applied Mathematics and Mechanics -- Learning Models from Data: Model Reduction, System Identification and Machine Learning_, 27 - 31 July 2020, Online.
 
