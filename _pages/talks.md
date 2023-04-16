@@ -24,12 +24,14 @@ author_profile: true
 
 ### 2023
 
+- **Q. Aumann**, S. Chellappa, A. S. Nayak. Adaptive strategies for frequency domain MOR -- A comparative framework, at _XI International Conference on Adaptive Modeling and Simulation - ADMOS 2023_, 19 - 21 June 2023, Gothenburg, Sweden.
+- **Q. Aumann**, P. Benner, I. V. Gosea, J. Saak, and J. Vettermann. Model order reduction strategies for interconnected systems with a large number of inputs and outputs, at _93rd Annual Meeting of the International Association of Applied Mathematics and Mechanics_, 30 May - 2 June 2023, Dresden, Germany.
 - **Q. Aumann**, P. Benner, J. Saak, and J. Vettermann. Model order reduction strategies for the computation of compact machine tool models, at _3rd International Conference on Thermal Issues in Machine Tools -- ICTIMT 2023_, 21-23 March 2023, Dresden, Germany.
 - **Q. Aumann** and S. W. R. Werner. Adaptive choice of near-optimal expansion points for interpolation-based reduced-order modeling, at _SIAM Conference on Computational Science and Engineering -- CSE23_, 26 February - 3 March 2023, Amsterdam, The Netherlands.
 
 ### 2022
 
-- **Q. Aumann**. Adaptive choice of near-optimal expansion points for interpolation-based reduced-order modeling, in _Applied Mathematics Seminar, UniDistance Suisse_, 27 October 2022, Online.
+- **Q. Aumann**. <span style="color:#C376CC;">Adaptive choice of near-optimal expansion points for interpolation-based reduced-order modeling</span>, in _Applied Mathematics Seminar, UniDistance Suisse_, 27 October 2022, Online.
 - **Q. Aumann**, P. Benner, I. V. Gosea, J. Saak, and J. Vettermann. Data driven reduced-order modeling of thermo-mechanical models of machine tools, at _MORE -- Model Reduction and Surrogate Modeling_, 19-23 September 2022, Berlin, Germany.
 - **Q. Aumann**, P. Benner, J. Saak, and J. Vettermann. Multi-body analysis of machine tools using reduced-order thermo-mechanical models, at _92nd Annual Meeting of the International Association of Applied Mathematics and Mechanics_, 15-19 August 2022, Aachen, Germany.
 - **Q. Aumann** and G. Müller. An adaptive method for reducing second-order dynamical systems, at _10th Vienna International Conference on Mathematical Modelling_, 27-29 July 2022, Vienna, Austria.
