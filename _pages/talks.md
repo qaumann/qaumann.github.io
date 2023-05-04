@@ -69,5 +69,6 @@ author_profile: true
 ---
 ## Posters
 
+- **Q. Aumann** and I. V. Gosea. Enforcing stability of models learned from data, at _Isaac Newton Institute programme on The mathematical and statistical foundation of future data-driven engineering -- Mathematical Foundations for Data-driven Engineering_, 9 - 12 May 2023, Edinburgh, United Kingdom.
 - **Q. Aumann** and G. Müller. Can machine learning methods be used to create parameterized reduced models of vibro-acoustic systems?, at _GAMM Juniors' Summer School on Applied Mathematics and Mechanics -- Learning Models from Data: Model Reduction, System Identification and Machine Learning_, 27 - 31 July 2020, Online.
 
