@@ -12,6 +12,13 @@ author_profile: true
 
 ## Research codes
 
+- **Q. Aumann** and S. W. R. Werner. Code, data and results for the numerical experiments in "Adaptive choice of near-optimal expansion points for interpolation-based structure-preserving model reduction", April 2023. doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.7845175">10.5281/zenodo.7845175</a>.
+    <br>
+    <a target="blank_" href="https://arxiv.org/abs/2305.10806">
+    <button class="btn btn--inverse">Preprint</button></a>
+    <a target="_blank" href="https://opensource.org/licenses/BSD-2-Clause">
+    <img src="https://img.shields.io/badge/License-BSD%202--Clause-orange.svg" alt="License: BSD 2-Clause" class="badge"></a><br/>
+
 - **Q. Aumann** and I. V. Gosea. Codes for "Practical challenges in data-driven interpolation", December 2022. doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.7490157">10.5281/zenodo.7490157</a>.
     <br>
     <a target="blank_" href="https://arxiv.org/abs/2301.04906">

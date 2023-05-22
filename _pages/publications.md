@@ -16,8 +16,9 @@ You can also find my articles on <a target="_blank" href="https://scholar.google
 
 ## Submitted Articles and Preprints
 
+-**Q. Aumann** and S. W. R. Werner. Adaptive choice of near-optimal expansion points for interpolation-based structure-preserving model reduction. eprint <a target="_blank" href="https://arxiv.org/abs/2305.10806">2305.10806</a>, arXiv, 2023, math.NA.
 - **Q. Aumann** and I. V. Gosea. Practical challenges in data-driven interpolation: dealing with noise, enforcing stability, and computing realizations. eprint <a target="_blank" href="https://arxiv.org/abs/2301.04906">2301.04906</a>, arXiv, 2023, math.NA.
-- **Q. Aumann**, P. Benner, J. Saak and J. Vettermann. Model order reduction strategies for the computation of compact machine tool models. Submitted to _Proceedings of 3rd International Conference of Thermal Issued in Machine Tools_, 2022.
+- **Q. Aumann**, P. Benner, J. Saak and J. Vettermann. Model order reduction strategies for the computation of compact machine tool models. Submitted to _Proceedings of 3rd International Conference of Thermal Issued in Machine Tools_, 2022. Accepted for publication.
 - R. Rumpler and **Q. Aumann**. MWCAWE: A multivariate WCAWE approach for parametric model order reduction, and a residue-based greedy scheme for the bivariate case. 2022.
 
 ---
