@@ -24,6 +24,7 @@ You can also find my articles on <a target="_blank" href="https://scholar.google
 ---
 ## Journal Articles
 
+- **Q. Aumann**, P. Benner, J. Saak and J. Vettermann. Model order reduction via substructuring for a nonlinear, differential-algebraic machine tool model with moving loads, _Proceedings in Applied Mathematics and Mechanics_, 23:e202200286, 2023. doi:<a target="_blank" href="https://doi.org/10.1002/pamm.202200286">10.1002/pamm.202200286</a>.
 - **Q. Aumann** and G. Müller. Robust error assessment for reduced order vibro-acoustic problems, _Journal of Sound and Vibration_, 545:117427, 2023. doi:<a target="_blank" href="https://doi.org/10.1016/j.jsv.2022.117427">10.1016/j.jsv.2022.117427</a>.
 - **Q. Aumann** and S. W. R. Werner. Structured model order reduction for vibro-acoustic problems using interpolation and balancing methods, _Journal of Sound and Vibration_, 543:117363, 2023. doi:<a target="_blank" href="https://doi.org/10.1016/j.jsv.2022.117363">10.1016/j.jsv.2022.117363</a>.
 - **Q. Aumann** and G. Müller. An adaptive method for reducing second-order dynamical systems, _IFAC-PapersOnLine_, 55(20):337--342, 2022. doi:<a target="_blank" href="https://doi.org/10.1016/j.ifacol.2022.09.118">10.1016/j.ifacol.2022.09.118</a>.
