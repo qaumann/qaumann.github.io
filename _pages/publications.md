@@ -18,7 +18,6 @@ You can also find my articles on <a target="_blank" href="https://scholar.google
 
 - **Q. Aumann** and S. W. R. Werner. Adaptive choice of near-optimal expansion points for interpolation-based structure-preserving model reduction. eprint <a target="_blank" href="https://arxiv.org/abs/2305.10806">2305.10806</a>, arXiv, 2023, math.NA.
 - **Q. Aumann** and I. V. Gosea. Practical challenges in data-driven interpolation: dealing with noise, enforcing stability, and computing realizations. eprint <a target="_blank" href="https://arxiv.org/abs/2301.04906">2301.04906</a>, arXiv, 2023, math.NA.
-- **Q. Aumann**, P. Benner, J. Saak and J. Vettermann. Model order reduction strategies for the computation of compact machine tool models. Submitted to _Proceedings of 3rd International Conference of Thermal Issued in Machine Tools_, 2022. Accepted for publication.
 - R. Rumpler and **Q. Aumann**. MWCAWE: A multivariate WCAWE approach for parametric model order reduction, and a residue-based greedy scheme for the bivariate case. 2022.
 
 ---
@@ -40,6 +39,7 @@ You can also find my articles on <a target="_blank" href="https://scholar.google
 ---
 ## Conference Proceedings
 
+- **Q. Aumann**, P. Benner, J. Saak, and J. Vettermann. Model order reduction strategies for the computation of compact machine tool models, in _3rd International Conference of Thermal Issued in Machine Tools (ICTIMT2023)_, pp. 132--145, 2023. doi:<a target="_blank" href="https://doi.org/10.1007/978-3-031-34486-2_10">10.1007/978-3-031-34486-2_10</a>.
 - L. Kleine-Wächter, H. Mao, R. Rumpler, M. Miksch, **Q. Aumann**, and G. Müller. A numerical study of 3d Kelvin cell arrangements as a basis for locally resonant acoustic metamaterials, in _Proceedings of the 47th Annual Conference on Acoustics (DAGA 2021)_, 2021, pp. 128--131. <a target="_blank" href="https://www.dega-akustik.de/publikationen/online-proceedings">Online</a>.
 - **Q. Aumann** and G. Müller. Robust error assessment for reduced order vibro-acoustic problems, in _Proceedings of ISMA 2020_, 2020, pp. 1901--1914.
 - A. Greim, F. Taddei, **Q. Aumann**, and G. Müller. Interactive web apps for visualizations in engineering education, in _Proceedings of the 46th SEFI Annual Conference 2018, Copenhagen, Denmark_, 2018, pp. 807–814. <a target="_blank" href="https://www.sefi.be/conference/copenhagen2018/">Online</a>.
