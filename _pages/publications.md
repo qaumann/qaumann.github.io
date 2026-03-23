@@ -35,7 +35,7 @@ You can also find my articles on <a target="_blank" href="https://scholar.google
 
 ---
 ## Book Chapters
-- J. Vettermann, **Q. Aumann**, J. Saak, and P. Benner. Rechenzeitsparende Modellierung. In: Brecher, C. (eds) _Thermo-energetische Gestaltung von Werkzeugmaschinen_, pp 199–-212. Springer Vieweg, Wiesbaden. 2025. doi:<a target="_blank" href="https://doi.org/10.1007/978-3-658-45180-6_13">https://doi.org/10.1007/978-3-658-45180-6_13</a>.
+- J. Vettermann, **Q. Aumann**, J. Saak, and P. Benner. Rechenzeitsparende Modellierung. In: Brecher, C. (eds) _Thermo-energetische Gestaltung von Werkzeugmaschinen_, pp 199--212. Springer Vieweg, Wiesbaden. 2025. doi:<a target="_blank" href="https://doi.org/10.1007/978-3-658-45180-6_13">https://doi.org/10.1007/978-3-658-45180-6_13</a>.
 
 ---
 ## Conference Proceedings
