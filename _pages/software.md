@@ -14,15 +14,22 @@ author_profile: true
 
 - **Q. Aumann** and S. W. R. Werner. Code, data and results for the numerical experiments in "Adaptive choice of near-optimal expansion points for interpolation-based structure-preserving model reduction", April 2023. doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.7845175">10.5281/zenodo.7845175</a>.
     <br>
-    <a target="blank_" href="https://arxiv.org/abs/2305.10806">
-    <button class="btn btn--inverse">Preprint</button></a>
+    <a target="blank_" href="https://doi.org/10.1007/s10444-024-10166-z">
+    <button class="btn btn--inverse">Paper</button></a>
     <a target="_blank" href="https://opensource.org/licenses/BSD-2-Clause">
     <img src="https://img.shields.io/badge/License-BSD%202--Clause-orange.svg" alt="License: BSD 2-Clause" class="badge"></a><br/>
 
-- **Q. Aumann** and I. V. Gosea. Codes for "Practical challenges in data-driven interpolation", December 2022. doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.7490157">10.5281/zenodo.7490157</a>.
+- R. Rumpler and **Q. Aumann**. Code and Data for Numerical Test Case in "MWCAWE: A multivariate WCAWE approach for parametric model order reduction, and a sampling strategy for the bivariate case", April 2023. doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.7806379">10.5281/zenodo.7806379</a>.
     <br>
-    <a target="blank_" href="https://arxiv.org/abs/2301.04906">
-    <button class="btn btn--inverse">Preprint</button></a>
+    <a target="blank_" href="https://doi.org/10.1016/j.jcp.2023.112319">
+    <button class="btn btn--inverse">Paper</button></a>
+    <a target="_blank" href="https://creativecommons.org/licenses/by/4.0/">
+    <img src="https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg" alt="License: Creative Commons Attribution 4.0 International" class="badge"></a><br/>
+
+- **Q. Aumann** and I. V. Gosea. Codes for "Practical challenges in data-driven interpolation", June 2023. doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.7490157">10.5281/zenodo.7490157</a>.
+    <br>
+    <a target="blank_" href="https://doi.org/10.1002/acs.3691">
+    <button class="btn btn--inverse">Paper</button></a>
     <a target="_blank" href="https://opensource.org/licenses/BSD-2-Clause">
     <img src="https://img.shields.io/badge/License-BSD%202--Clause-orange.svg" alt="License: BSD 2-Clause" class="badge"></a><br/>
 
@@ -43,19 +50,33 @@ author_profile: true
 
 ## Datasets
 
+- **Model of a machine tool with relative movements**. Matrices for a numerical model of a machine tool with different components moving relatively to each other during a simulated work process. <a target="_blank" href="https://modelreduction.org/morwiki/Machine_tool_with_relative_movements">More information about the benchmark example on the MOR-Wiki.</a> doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.8099978">10.5281/zenodo.8099978</a>.
+    <br>
+    <a target="blank_" href="https://doi.org/10.5281/zenodo.8099978">
+      <button class="btn btn--inverse">Dataset</button></a>
+    <a target="_blank" href="https://creativecommons.org/licenses/by/4.0/">
+      <img src="https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg" alt="License: Creative Commons Attribution 4.0 International" class="badge"></a><br/>
+      
+- **Matrices for an acoustic cavity with poroelastic layer**. Matrices for a numerical model of an acoustic cavity equipped with a layer of poroelastic material. <a target="_blank" href="https://modelreduction.org/morwiki/Porous_absorber">More information about the benchmark example on the MOR-Wiki.</a> doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.8087340">10.5281/zenodo.8087340</a>.
+    <br>
+    <a target="blank_" href="https://doi.org/10.5281/zenodo.8087340">
+      <button class="btn btn--inverse">Dataset</button></a>
+    <a target="_blank" href="https://creativecommons.org/licenses/by/4.0/">
+      <img src="https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg" alt="License: Creative Commons Attribution 4.0 International" class="badge"></a><br/>
+      
 - **Matrices for a sound transmission problem**. Matrices for a numerical model of a sound transmission problem intended as a benchmark example for model order reduction methods. <a target="_blank" href="http://modelreduction.org/index.php/Sound_transmission_through_a_plate">More information about the benchmark example on the MOR-Wiki.</a> doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.7300346">10.5281/zenodo.7300346</a>.
     <br>
     <a target="blank_" href="https://doi.org/10.5281/zenodo.7300346">
       <button class="btn btn--inverse">Dataset</button></a>
     <a target="_blank" href="https://creativecommons.org/licenses/by/4.0/">
-      <img src="https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg" alt="License: BSD 2-Clause" class="badge"></a>
+      <img src="https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg" alt="License: Creative Commons Attribution 4.0 International" class="badge"></a><br/>
 
-- **Matrices for a plate with tuned vibration absorbers**. Matrices for a numerical model of a vibrating plate equipped with tuned vibration absorbers intended as a benchmark example for model order reduction methods. <a target="_blank" href="http://modelreduction.org/index.php/Plate_with_tuned_vibration_absorbers">More information about the benchmark example on the MOR-Wiki.</a>
+- **Matrices for a plate with tuned vibration absorbers**. Matrices for a numerical model of a vibrating plate equipped with tuned vibration absorbers intended as a benchmark example for model order reduction methods. <a target="_blank" href="http://modelreduction.org/index.php/Plate_with_tuned_vibration_absorbers">More information about the benchmark example on the MOR-Wiki.</a> doi:<a target="blank_" href="https://doi.org/10.5281/zenodo.7507011">10.5281/zenodo.7507011</a>.
     <br>
     <a target="blank_" href="https://doi.org/10.5281/zenodo.7507011">
       <button class="btn btn--inverse">Dataset</button></a>
     <a target="_blank" href="https://creativecommons.org/licenses/by/4.0/">
-      <img src="https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg" alt="License: BSD 2-Clause" class="badge"></a>
+      <img src="https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg" alt="License: Creative Commons Attribution 4.0 International" class="badge"></a><br/>
 
 
 
